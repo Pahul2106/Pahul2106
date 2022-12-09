@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bonjour  👋
+
+- Je suis Paul 👨
+- J'ai 18 ans 🎂
+- J'habite à Paris 🇫🇷
+- Je suis en BUT Informatique 🧑‍💻
+- Mon objectif est de devenir software engineer 💻
+- Je développe de petits projets personnels en développement web 😀
+
+
 
 <!--
 **Pahul2106/Pahul2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
