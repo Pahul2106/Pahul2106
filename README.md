@@ -1,10 +1,9 @@
 ### Bonjour  👋
 
 - Je suis Paul 👨
-- J'ai 18 ans 🎂
+- J'ai 19 ans 🎂
 - J'habite à Paris 🇫🇷
 - Je suis en BUT Informatique 🧑‍💻
-- Mon objectif est de devenir software engineer 💻
 - Je développe de petits projets personnels en développement web 😀
 
 
