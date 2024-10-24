@@ -1,10 +1,10 @@
 ### Bonjour  👋
 
 - Je suis Paul 👨
-- J'ai 19 ans 🎂
+- J'ai 20 ans 🎂
 - J'habite à Paris 🇫🇷
 - Je suis en BUT Informatique 🧑‍💻
-- Je développe de petits projets personnels en développement web 😀
+- Je développe de petits projets personnels en développement web 
 
 
 
